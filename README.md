@@ -3,11 +3,11 @@ THIS WAS OUR FINAL YEAR PROJECT//YEAR 2022G.C//2014E.C
 This project was developed at bahir dar institute of technology
 Bahir Dar University Bahir Dar,Amhara,Ethiopia.
 # DEVELOPERS
-# Million Sharbe 
+## Million Sharbe 
      spring and vaading  developer
-# Thomas Fasil 
+## Thomas Fasil 
      project manager and ui/ux designer
-# Yordanos Damtew 
+## Yordanos Damtew 
      database  and system designer
 # Running the application
 The project is a standard Maven project. To run it from the command line,

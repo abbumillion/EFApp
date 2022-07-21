@@ -32,7 +32,6 @@ public  class User {
 	// user's gender
 	@Column(nullable = false, unique = false, length = 3)
 	private char gender;
-	// user's email
 	@Column(nullable = false, unique = true, length = 30)
 	private String email;
 	// user's phone number

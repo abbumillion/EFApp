@@ -11,9 +11,8 @@ import com.app.efa.Entity.Admin;
 
 @Repository
 public interface AdminRepo extends JpaRepository<Admin,Long> {
-	// find by admin id
-		//public Admin findByAdminId(long id);
-
+    //find admins by level
+		public List<Admin> findByLevel(int level);
 		// to find admin by first name
 	//	public Admin findByFirstName(String firstName);
 
